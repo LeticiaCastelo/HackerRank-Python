@@ -4,7 +4,7 @@
   </a>
 </div>
 
-Este repositório contém as minhas soluções para os desafios de programação do HackerRank, desenvolvidas em Python.
+Este repositório contém as minhas soluções desenvolvidas em Python para os desafios de programação do HackerRank.
 ##
 
 ### Organização do Repositório
