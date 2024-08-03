@@ -13,7 +13,6 @@ Este repositório contém as minhas soluções desenvolvidas em Python para os d
 - Cada diretório neste repositório corresponde a uma categoria de desafios do HackerRank.
 - Dentro de cada diretório, você encontrará os arquivos Python com as minhas soluções para os desafios dessa categoria.
 - O nome dos arquivos corresponde ao nome do desafio no HackerRank.
-- 
 ##
 
 ### Como Usar
