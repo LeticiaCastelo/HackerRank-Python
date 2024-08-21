@@ -22,4 +22,3 @@ git clone https://github.com/LeticiaCastelo/HackerRank-Python.git
 ```
 ##
 
-
